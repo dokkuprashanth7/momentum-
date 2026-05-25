@@ -53,6 +53,10 @@
   --r-xl: 32px;
   --r-full: 9999px;
 
+  /* --- Layout --- */
+  --sidebar-width: 260px;
+  --navbar-height: 72px;
+
   /* --- Effects --- */
   --shadow-soft: 0 4px 20px rgba(0, 0, 0, 0.4);
   --shadow-primary: 0 0 20px rgba(124, 92, 252, 0.2);
